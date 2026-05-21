@@ -6,11 +6,12 @@
 - HC05 Bluetooth Module
 - Servo Motor
 - I2C LCD
+- LED
 
 ## Features
 - RFID authentication
 - Servo-based door lock
-- Bluetooth notification
+- Bluetooth Controlled
 - LCD status display
 
 ## Communication Protocols Used
